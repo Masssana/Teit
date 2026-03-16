@@ -1,0 +1,4 @@
+var six=6
+print six
+var popa="popa"
+print popa
